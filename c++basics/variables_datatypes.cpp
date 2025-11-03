@@ -7,6 +7,7 @@ int main()
     //int variable 4bytes
     int age=18;
     //float/double variable float and double differ in size float=4bytes,double=8bytes
+    // if f is not mentioned by default value will be double
     float price=11.9f;
     //char variable 1byte 
     char grade='A';
