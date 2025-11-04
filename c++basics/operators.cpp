@@ -19,6 +19,7 @@ int main(){
     cout<<"a>b and a==b? : "<<(a>b && a==b)<<endl; //&& logical and
     cout<<"a>b or a==b? : "<<(a>b || a==b)<<endl; // || logical or
     cout<<"not a>b : "<<!(a>b)<<endl;// ! logical not
+    //assignment operators =,+=,-=,*=,/= etc
     //unary operators 
     b=a++; //post increment a++ ,pre increment ++a
     int c=--a;//post decrement a--, post decrement --a
